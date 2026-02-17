@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+</head>
+<body>
+  <h1>Hello, I'm Rahul 👋</h1>
+  <p>Web Developer | React | Node.js</p>
+
+  <h2>My Projects</h2>
+  <ul>
+    <li>Project 1</li>
+    <li>Project 2</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p>Email: example@gmail.com</p>
+</body>
+</html>
